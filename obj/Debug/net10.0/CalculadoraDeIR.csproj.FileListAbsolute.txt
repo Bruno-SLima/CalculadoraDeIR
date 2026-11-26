@@ -1,0 +1,14 @@
+C:\Balta\CalculadoraDeIR\bin\Debug\net10.0\CalculadoraDeIR.exe
+C:\Balta\CalculadoraDeIR\bin\Debug\net10.0\CalculadoraDeIR.deps.json
+C:\Balta\CalculadoraDeIR\bin\Debug\net10.0\CalculadoraDeIR.runtimeconfig.json
+C:\Balta\CalculadoraDeIR\bin\Debug\net10.0\CalculadoraDeIR.dll
+C:\Balta\CalculadoraDeIR\bin\Debug\net10.0\CalculadoraDeIR.pdb
+C:\Balta\CalculadoraDeIR\obj\Debug\net10.0\CalculadoraDeIR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Balta\CalculadoraDeIR\obj\Debug\net10.0\CalculadoraDeIR.AssemblyInfoInputs.cache
+C:\Balta\CalculadoraDeIR\obj\Debug\net10.0\CalculadoraDeIR.AssemblyInfo.cs
+C:\Balta\CalculadoraDeIR\obj\Debug\net10.0\CalculadoraDeIR.csproj.CoreCompileInputs.cache
+C:\Balta\CalculadoraDeIR\obj\Debug\net10.0\CalculadoraDeIR.dll
+C:\Balta\CalculadoraDeIR\obj\Debug\net10.0\refint\CalculadoraDeIR.dll
+C:\Balta\CalculadoraDeIR\obj\Debug\net10.0\CalculadoraDeIR.pdb
+C:\Balta\CalculadoraDeIR\obj\Debug\net10.0\CalculadoraDeIR.genruntimeconfig.cache
+C:\Balta\CalculadoraDeIR\obj\Debug\net10.0\ref\CalculadoraDeIR.dll
